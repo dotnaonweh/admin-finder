@@ -1,5 +1,6 @@
 Admin Finder Khusus CMS LOKOMEDIA
 
 how to use ?
-
-python adfin.py
+- install python 2
+- install module requests : pip install requests
+- python adfin.py
