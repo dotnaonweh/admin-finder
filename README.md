@@ -1,5 +1,5 @@
 #Admin Finder Khusus CMS LOKOMEDIA
 
-#how to use ?
+how to use ?
 
-#python adfin.py
+python adfin.py
