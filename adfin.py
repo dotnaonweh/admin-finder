@@ -1,7 +1,6 @@
 # Admin Finder CMS Lokomedia
 
 import requests
-import time
 
 logo = """
   __       _           _         _____ _           _           
